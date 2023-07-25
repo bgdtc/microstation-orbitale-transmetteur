@@ -16,22 +16,22 @@ const main = async () => {
 ```json
 [
   {
-    id: 'id',
-    billing_descriptor: 'store billing descriptor',
-    store_name: 'store name',
-    merchant_name: 'merchant name',
-    full_address: '00 street, 00000, city',
-    siret: 00000000000000
+    "id": "id",
+    "billing_descriptor": "store billing descriptor",
+    "store_name": "store name",
+    "merchant_name": "merchant name",
+    "full_address": "00 street, 00000, city",
+    "siret": 00000000000000
   },
    {
-    id: 'id',
-    billing_descriptor: 'store billing descriptor',
-    store_name: 'store name',
-    merchant_name: 'merchant name',
-    full_address: '00 street, 00000, city',
-    siret: 00000000000000
+    "id": "id",
+    "billing_descriptor": "store billing descriptor",
+    "store_name": "store name",
+    "merchant_name": "merchant name",
+    "full_address": "00 street, 00000, city",
+    "siret": 00000000000000
   },
-  ...other results
+  //...other results
 ]
 ```
 
