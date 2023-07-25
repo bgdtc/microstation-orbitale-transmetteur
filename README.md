@@ -13,7 +13,7 @@ const main = async () => {
 };
 ```
 ##### Output:
-```json
+```yaml
 [
   {
     "id": "id",
